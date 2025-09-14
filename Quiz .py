@@ -97,7 +97,7 @@ print(""" \tQuiz
     1. GK
     2. Cricket 
     3. Coding  """)
-print("hi ")
+
 while True:
 	
     try:
