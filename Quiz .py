@@ -96,8 +96,10 @@ print(""" \tQuiz
     Choose between the following topics:
     1. GK
     2. Cricket 
-    3. Coding   """)
+    3. Coding  """)
+print("hi ")
 while True:
+	
     try:
         input_value=input().lower()
         if input_value=='gk'or input_value=='cricket' or input_value=='coding':
